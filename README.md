@@ -3,7 +3,7 @@ This program generates an emoji, you have to pick a number 1,2,3,or 4, which all
 To run this program you must put this into the terminal:
 
 ```
-jshell --execution local --startup PRINTING "primeFinder.java"
+jshell --execution local --startup PRINTING "Emoji Generator.java"
 ```
 
 The fix for Emoji-Generator was that first you had to make scanner work (`--execution local`) and then enable printf function (`--startup PRINTING`)
